@@ -19,3 +19,4 @@ stash: revert alterações recentes momentaneamente e armazena tais alterações
 
 escrever codigo -> git add -> git commit -> gi push-> pull request
 ==================================================================================
+outro teste
