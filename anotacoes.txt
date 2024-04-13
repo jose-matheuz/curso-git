@@ -1,0 +1,20 @@
+=======================================================================
+COMANDOS COMUNS - GIT
+config: altera as configurações do git na sua máquina
+init: inicializar o projeto/repositorio
+branch: informaões sobre as branches(linhas de publicação de codigo)
+checkout: navegar pelas branches
+status: chega o que há de novo \ mudanças (checar arquivos elencados para o commit)
+clone: baixar um repositorio remoto para um repositório local
+add: rastrear e adicionar arquivos e mudanças em relação ao que já havia regstrado antes (stage)
+commit:salvar alterações/arquivos no repositorio local
+push: fazer upload a partir do repositório local, enviando ao repositorio remoto
+pull: fazer o download de alterações a partir do repositorio remoto até o repostório local
+merge: mesclar códigos distintos em um só único
+diff: visualizar diferenças entre codigos-fonte
+log: visualizar o histórico de publicações de código-fonte
+stash: revert alterações recentes momentaneamente e armazena tais alterações em memória para a recuperação das alterações posteriormente
+=========================================================================
+.gitignore: muito dos arquivos e artefatos de seu projeto não devem ser commitados
+
+escrever codigo -> git add -> git commit -> gi push-> pull request
