@@ -18,3 +18,4 @@ stash: revert alterações recentes momentaneamente e armazena tais alterações
 .gitignore: muito dos arquivos e artefatos de seu projeto não devem ser commitados
 
 escrever codigo -> git add -> git commit -> gi push-> pull request
+==================================================================================
