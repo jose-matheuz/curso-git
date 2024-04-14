@@ -19,3 +19,5 @@ stash: revert alterações recentes momentaneamente e armazena tais alterações
 .gitignore: muito dos arquivos e artefatos de seu projeto não devem ser commitados
 
 escrever codigo -> git add -> git commit -> gi push-> pull request
+============================================================================
+commit -am ""(permite fazaer o comite de forma mais agil e sem o git add)
