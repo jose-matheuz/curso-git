@@ -21,6 +21,9 @@ stash: revert alterações recentes momentaneamente e armazena tais alterações
 escrever codigo -> git add -> git commit -> gi push-> pull request
 ============================================================================
 commit -am ""(permite fazaer o comite de forma mais agil e sem o git add)
-
+git push -u origin *nome da branch*: modelo de primeiro push
 git checkout -b "nova-alteacao": cria uma nova branch localmente
 git push --set-u origin nova-anotacao: comando para criar nova branch no github
+git restore --staged *nome do arquivo*: tira do commite o arquivo desejado
+git branch -M *novo nome: renomeia a branch atual
+git remote add origin *url do repositorio remoto*: conecta o git  com o git hub
