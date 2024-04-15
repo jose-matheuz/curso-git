@@ -21,3 +21,5 @@ stash: revert alterações recentes momentaneamente e armazena tais alterações
 escrever codigo -> git add -> git commit -> gi push-> pull request
 ============================================================================
 commit -am ""(permite fazaer o comite de forma mais agil e sem o git add)
+
+git checkout -b "nova-alteacao": cria uma nova branch
